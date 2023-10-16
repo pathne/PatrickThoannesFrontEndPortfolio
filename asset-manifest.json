@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PatrickThoannesFrontEnd/static/css/main.32639055.css",
-    "main.js": "/PatrickThoannesFrontEnd/static/js/main.c85a0314.js",
-    "static/js/787.c1112931.chunk.js": "/PatrickThoannesFrontEnd/static/js/787.c1112931.chunk.js",
-    "index.html": "/PatrickThoannesFrontEnd/index.html",
-    "main.32639055.css.map": "/PatrickThoannesFrontEnd/static/css/main.32639055.css.map",
-    "main.c85a0314.js.map": "/PatrickThoannesFrontEnd/static/js/main.c85a0314.js.map",
-    "787.c1112931.chunk.js.map": "/PatrickThoannesFrontEnd/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/PatrickThoannesFrontEndPortfolio/static/css/main.32639055.css",
+    "main.js": "/PatrickThoannesFrontEndPortfolio/static/js/main.a744bf8e.js",
+    "static/js/787.c1112931.chunk.js": "/PatrickThoannesFrontEndPortfolio/static/js/787.c1112931.chunk.js",
+    "index.html": "/PatrickThoannesFrontEndPortfolio/index.html",
+    "main.32639055.css.map": "/PatrickThoannesFrontEndPortfolio/static/css/main.32639055.css.map",
+    "main.a744bf8e.js.map": "/PatrickThoannesFrontEndPortfolio/static/js/main.a744bf8e.js.map",
+    "787.c1112931.chunk.js.map": "/PatrickThoannesFrontEndPortfolio/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.32639055.css",
-    "static/js/main.c85a0314.js"
+    "static/js/main.a744bf8e.js"
   ]
 }
